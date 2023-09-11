@@ -1,0 +1,79 @@
+.hii{
+  float: left;
+  width:30%;
+  height:1200px;
+  background-color:rgb(229, 236, 236);
+
+}
+.hii img{
+  height: 250px;
+  width:250px;
+  border-radius: 2500px;
+  margin-top: 40px;
+margin-left: 65px;
+border: 3px solid white;
+}
+
+#vysh{
+  margin-left: 45px;
+  margin-top: 40px;
+  font-style: italic;
+  color: black;
+}
+#call{
+  height: 30px;
+  width:30px;
+  float: left;
+  margin-top: 0px;
+  
+}
+#con{
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.vyshu{
+  font-size: 20px;
+}
+.hello{
+
+  width:60%;
+  width:1500px;
+  height:1200px;
+  font-style: italic;
+  background-color: rgb(240, 247, 247);
+}
+#sree{
+  font-size: 80px;
+  margin-left: 200px;
+  color: blue;
+  background-color: rgb(240, 230, 229);
+  border: 60px;
+  padding-top: 70px;
+  padding-bottom: 50px;
+  text-align: center;
+}
+#ed{
+  font-size: 30px;
+  margin-top: 20px;
+  border: 3px solid black;
+  color:  white;
+  background-color:rgb(226, 180, 231);
+}
+#area{
+  font-size: 30px;
+  border:3px solid black;
+  color:  white;
+  background-color:rgb(226, 180, 231);
+}
+#tech{
+  font-size: 30px;
+  border:3px solid black;
+  color:  white;
+  background-color: rgb(226, 180, 231);
+}
+.str{
+  font-size: 30px;
+  border:3px solid black;
+  color:  white;
+  background-color: rgb(226, 180, 231);
+}
